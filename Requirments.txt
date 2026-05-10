@@ -1,0 +1,11 @@
+numpy → numerical operations, arrays, preprocessing.
+
+pandas → dataset loading, exploration, preprocessing.
+
+scikit-learn → train/test split, scaling, confusion matrix, classification report.
+
+matplotlib → plotting accuracy/loss curves, sample images.
+
+seaborn → nicer plots (confusion matrix heatmap).
+
+tensorflow → building and training neural networks (both feed-forward NN and CNN).
